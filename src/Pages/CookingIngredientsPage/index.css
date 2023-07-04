@@ -1,0 +1,17 @@
+.cookingingredients__page {
+  width: 100%;
+  height: 72vh;
+}
+
+@media (max-width: 945px ) {
+  .cookingingredients__page {
+    height: 100%;
+    overflow: hidden;
+  }
+}
+@media (max-width: 500px ) {
+  .cookingingredients__page {
+    height: 100%;
+    overflow: hidden;
+  }
+}

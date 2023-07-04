@@ -1,0 +1,32 @@
+
+.infoforsecrions__contain {
+  text-align: center;
+}
+
+.infoforsecrions__contain--alignleft {
+  text-align: left;
+}
+
+.infoforsecrions__contain h3 {
+  color: var(--color3);
+  text-align: center;
+  font-size: 36px;
+  font-family: Dancing Script;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 117.3%;
+  letter-spacing: 3.6px;
+  margin: 6px 0;
+  padding-top: 40px;
+}
+
+.infoforsecrions__contain p {
+  color: var(--color1);
+  font-size: 30px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 117.3%;
+  text-transform: capitalize;
+  margin-top: 0;
+}

@@ -1,0 +1,90 @@
+.revcomo_contain {
+  width: 732px;
+  height: 385px;
+  background: rgba(16, 20, 24, 0.70);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 35px;
+  margin: 0 35px;
+  padding: 0 24px;
+}
+
+.revcomo_contain .personl__data {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  width: 596px;
+}
+
+.revcomo_contain .personl__data .image__personal {
+  object-fit: contain;
+
+  border-radius: 104px;
+  padding-right: 35px;
+}
+
+.revcomo_contain .name__tqyyam {
+  width: fit-content;
+}
+
+.revcomo_contain .name__tqyyam h4 {
+  margin-bottom: 0;
+  color: var(--color1);
+  font-size: 18px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 155.3%;
+  letter-spacing: 2.34px;
+  text-transform: capitalize;
+}
+
+.revcomo_contain .name__tqyyam .image__start {
+  width: 12px;
+  height: 12px;
+}
+
+.revcomo_contain .personl_review {
+  width: 596px;
+  height: 148px;
+  color: var(--color1);
+  font-size: 16px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2.08px;
+  text-transform: capitalize;
+
+
+  width: 302px;
+    font-size: 15px;
+    letter-spacing: 2.08px;
+}
+
+@media (max-width: 680px) {
+  .revcomo_contain {
+    width: 432px;
+  }
+  .revcomo_contain .personl__data {
+    width: 315px;
+  }
+
+  .revcomo_contain .personl_review {
+    width: 302px;
+    font-size: 15px;
+    letter-spacing: 2.00px;
+  }
+}
+
+
+@media (max-width: 388px) {
+  .revcomo_contain {
+    padding: 0;
+  }
+}

@@ -1,0 +1,25 @@
+.emailindo__contain {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  column-gap: 30px;
+  width: fit-content;
+
+}
+
+.emailindo__contain .emailindo__contain__img {
+  width: 32px;
+  height: 32px;
+}
+
+.emailindo__contain .emailindo__contain__prah {
+  color: var(--color1);
+  font-size: 20px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+}

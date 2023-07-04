@@ -1,0 +1,11 @@
+
+.cord__contain {
+  width: fit-content;
+
+}
+
+.cord__contain img {
+  width: 399.988px;
+  object-fit: contain;
+  /* overflow: hidden; */
+}

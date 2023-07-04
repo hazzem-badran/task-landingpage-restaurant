@@ -1,0 +1,13 @@
+.joinuspage__page {
+  height: 328px;
+  width: 100%;
+  background: rgba(16, 20, 24, 0.70);
+  overflow: hidden;
+}
+
+.joinus__parts__contan {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

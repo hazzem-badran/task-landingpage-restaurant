@@ -1,0 +1,44 @@
+.specialmake__contain {
+  width: 384px;
+  height: 455px;
+  border: 1px dashed var(--color3);
+  background: rgba(160, 128, 64, 0.3);
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center
+}
+
+.specialmake__contain .spec__imge {
+  width: 80px;
+  height: 80px;
+}
+
+.specialmake__contain h3 {
+  width: 131px;
+  height: 27px;
+  color: var(--color1);
+  text-align: center;
+  font-size: 24px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 117.3%;
+  text-transform: capitalize;
+}
+
+.specialmake__contain p {
+  color: var(--color1);
+  text-align: justify;
+  font-size: 14px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 155.3%;
+  letter-spacing: 1.82px;
+  text-transform: capitalize;
+  width: 268px;
+  height: 128px;
+}
