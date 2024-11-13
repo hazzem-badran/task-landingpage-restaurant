@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
-import AboutUs from '../../Pages/AboutUs'
+import AboutUs from '../../Components/About/AboutUsSection'
 
 export default class index extends Component {
   render() {
     return (
-      <div>
+      <>
         <AboutUs />
-      </div>
+      </>
     )
   }
 }

@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './index.css'
-import AboutUsInfo from '../../Components/AboutUsInfo'
+import AboutUsInfo from '../AboutUsInfo'
 
 
 

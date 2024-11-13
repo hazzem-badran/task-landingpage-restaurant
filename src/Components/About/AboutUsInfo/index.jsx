@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import './index.css'
-import ButtonComp from '../Hero/ButtonComp'
-import Container from '../Container'
-import foodImage from '../../Assets/Images/foodImage.png'
+import ButtonComp from '../../Hero/ButtonComp'
+import Container from '../../Container'
+import foodImage from '../../../Assets/Images/foodImage.png'
 
 export default class AboutUsInfo extends Component {
   render() {
