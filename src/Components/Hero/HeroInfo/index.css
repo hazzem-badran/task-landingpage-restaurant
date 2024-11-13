@@ -7,33 +7,11 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  width: 400px;
+  width: 430px;
 }
 @media (max-width: 470px ) {
   .hero__info__contain  {
-    width: 388px
-  }
-}
-
-
-@media (max-width: 403px ) {
-  .hero__info__contain  {
-    width: 366px
-  }
-}
-@media (max-width: 390px ) {
-  .hero__info__contain  {
-    width: 350px
-  }
-}
-@media (max-width: 365px ) {
-  .hero__info__contain  {
-    width: 315px
-  }
-}
-@media (max-width: 325px ) {
-  .hero__info__contain  {
-    width: 300px
+    width: 310px
   }
 }
 
