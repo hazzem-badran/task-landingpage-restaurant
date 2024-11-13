@@ -76,6 +76,7 @@
 
 .nav__Hero .icon__search {
   padding-inline: 8px;
+  display: none;
 }
 
 .nav__Hero .contan__book {
