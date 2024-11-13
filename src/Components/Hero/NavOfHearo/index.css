@@ -21,6 +21,8 @@
 .nav__Hero ul {
   list-style: none;
   display: flex;
+  justify-content: space-between;
+  width: 55%;
 }
 
 @media (max-width: 790px) {
@@ -67,6 +69,10 @@
   .nav__Hero .contan__book {
     width: 170px;
 
+  }
+  .nav__Hero {
+  width: 95%;
+  margin: auto;
   }
 }
 
