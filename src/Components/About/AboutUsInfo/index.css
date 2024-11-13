@@ -103,7 +103,7 @@
 
 @media (max-width: 522px) {
   .aboutusinfo__contan .aboutus__title {
-    width: 320px;
+    width: 290px;
     font-size: 18px;
     margin: 0;
   }
@@ -140,9 +140,14 @@
 
 @media (max-width: 522px) {
   .aboutusinfo__contan .aboutus__prah {
-    width: 320px;
+    overflow: hidden;
+    
+    width: 290px;
     font-size: 13.5px;
     padding-bottom: 100px;
+    margin-bottom: 30px;
+
+
   }
 }
 
