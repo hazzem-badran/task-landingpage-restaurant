@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import logo  from '../../Assets/Images/Logo.png'
-import serVect  from '../../Assets/Images/Vector.png'
-import dachVect from '../../Assets/Images/Vector3.svg'
+import logo  from '../../../Assets/Images/Logo.png'
+import serVect  from '../../../Assets/Images/Vector.png'
+import dachVect from '../../../Assets/Images/Vector3.svg'
 import './index.css'
 
 

@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import InfoForSections from '../../Components/InfoForSections'
 import './index.css'
-import Blogcomon from '../../Components/Blogcomon'
+import Blogcomon from '../../Components/Hero/Blogcomon'
 import blogOne from '../../Assets/Images/blogOne.png'
 import blogTwo from '../../Assets/Images/blogTwo.png'
 import blogThree from '../../Assets/Images/blogThree.png'

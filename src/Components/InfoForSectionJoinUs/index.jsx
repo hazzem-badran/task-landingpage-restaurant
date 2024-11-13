@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './index.css'
-import ButtonComp from '../ButtonComp' 
+import ButtonComp from '../Hero/ButtonComp' 
 
 
 export default class InfoForSectionJoinUs extends Component {

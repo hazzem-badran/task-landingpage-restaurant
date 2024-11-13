@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App">
       <Section1 />
-      <Section2 />
+      {/* <Section2 />
       <Section3 />
       <Section4 />
       <Section5 />
@@ -27,7 +27,7 @@ function App() {
       <Section9 />
       <Section10 />
       <Section11 />
-      <Section12 />
+      <Section12 /> */}
     </div>
   );
 }

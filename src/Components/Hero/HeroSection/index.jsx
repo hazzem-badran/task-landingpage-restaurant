@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import NavOfHearo from '../../Components/NavOfHearo'
+import NavOfHearo from '../NavOfHearo'
 import './index.css'
-import Container from '../../Components/Container'
-import HeroInfo from '../../Components/HeroInfo'
+import Container from '../../Container'
+import HeroInfo from '../HeroInfo'
 
 
 
