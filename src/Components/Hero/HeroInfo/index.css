@@ -7,15 +7,15 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-
   width: 400px;
-  /* width: 392px; */
 }
 @media (max-width: 470px ) {
   .hero__info__contain  {
     width: 388px
   }
 }
+
+
 @media (max-width: 403px ) {
   .hero__info__contain  {
     width: 366px
@@ -51,29 +51,9 @@
   margin: 0;
   margin-bottom: 35px;
 }
-@media (max-width:403px ) {
+@media (max-width:475px ) {
   .hero__info__contain h2 {
-    font-size: 41px;
-  }
-}
-@media (max-width:392px ) {
-  .hero__info__contain h2 {
-    font-size: 40px;
-  }
-}
-@media (max-width:386px ) {
-  .hero__info__contain h2 {
-    font-size: 39px;
-  }
-}
-@media (max-width:378px ) {
-  .hero__info__contain h2 {
-    font-size: 37px;
-  }
-}
-@media (max-width:366px ) {
-  .hero__info__contain h2 {
-    font-size: 34px;
+    font-size: 30px;
   }
 }
 
