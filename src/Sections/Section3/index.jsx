@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import SpecalHaz from '../../Pages/SpecalHaz'
+import SpecalHaz from '../../Components/Specal/SpecalHazSection'
 
 export default class Section3 extends Component {
   render() {

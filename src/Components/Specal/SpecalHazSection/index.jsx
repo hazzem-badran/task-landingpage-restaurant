@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import SpecialMake from '../../Components/SpecialMake'
+import SpecialMake from '../SpecialMake'
 import './index.css'
-import juice from '../../Assets/Images/orange-juice1.png'
-import chefs from '../../Assets/Images/chef2.png'
-import exotic from '../../Assets/Images/restaurant1.png'
-import InfoForSections from '../../Components/InfoForSections'
+import juice from '../../../Assets/Images/orange-juice1.png'
+import chefs from '../../../Assets/Images/chef2.png'
+import exotic from '../../../Assets/Images/restaurant1.png'
+import InfoForSections from '../../../Components/InfoForSections'
 
 
 

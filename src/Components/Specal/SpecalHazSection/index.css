@@ -1,17 +1,13 @@
 .specalhaz__page {
-  height: 100vh;
+  max-height: 100%;
+  min-height: 100vh;
   width: 100%;
   position: relative;
 }
 
 /* 851 */
 
-@media (max-width: 851px) {
-  .specalhaz__page {
-    height: 100%;
-    
-  }
-}
+
 
 
 
@@ -23,4 +19,15 @@
   align-items: center;
   gap: 53px;
   padding: 10px;
+}
+
+
+@media (max-width: 851px) {
+  .specalhaz__page {
+    height: 100%;
+    
+  }
+  .specales__contain__all{
+    padding-bottom: 3rem;
+  }
 }
