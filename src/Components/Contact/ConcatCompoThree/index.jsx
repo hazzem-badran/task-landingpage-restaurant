@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import './index.css'
-import design_mail from '../../Assets/Images/ant-design_mail-filled.svg'
-import design_location from '../../Assets/Images/carbon_location-filled.svg'
-import design_phone from '../../Assets/Images/carbon_phone-filled.svg'
+import design_mail from '../../../Assets/Images/ant-design_mail-filled.svg'
+import design_location from '../../../Assets/Images/carbon_location-filled.svg'
+import design_phone from '../../../Assets/Images/carbon_phone-filled.svg'
 
 export default class ConcatCompoThree extends Component {
   render() {

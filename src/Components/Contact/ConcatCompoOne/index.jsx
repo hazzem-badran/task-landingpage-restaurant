@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import logo from '../../Assets/Images/Logo.png'
-import Social_Icons from '../../Assets/Images/Social_Icons.svg'
-import Social_Icons2 from '../../Assets/Images/Social_Icons2.svg'
-import Social_Icons3 from '../../Assets/Images/Social_Icons3.svg'
+import logo from '../../../Assets/Images/Logo.png'
+import Social_Icons from '../../../Assets/Images/Social_Icons.svg'
+import Social_Icons2 from '../../../Assets/Images/Social_Icons2.svg'
+import Social_Icons3 from '../../../Assets/Images/Social_Icons3.svg'
 import './index.css'
 
 

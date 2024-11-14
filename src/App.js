@@ -29,11 +29,12 @@ function App() {
 
       <Section9 />
 
+      <Section10 />
+
       
 
       {/*
       
-      <Section10 />
       <Section11 />
       <Section12 /> */}
     </div>

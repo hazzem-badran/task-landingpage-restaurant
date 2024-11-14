@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import Container from '../../Components/Container'
-import ConcatCompoOne from '../../Components/ConcatCompoOne'
-import ConcatCompoTwo from '../../Components/ConcatCompoTwo'
-import ConcatCompoThree from '../../Components/ConcatCompoThree'
+import Container from '../../Container'
+import ConcatCompoOne from '../ConcatCompoOne'
+import ConcatCompoTwo from '../ConcatCompoTwo'
+import ConcatCompoThree from '../ConcatCompoThree'
 import './index.css'
 
 export default class ContactUsPage extends Component {

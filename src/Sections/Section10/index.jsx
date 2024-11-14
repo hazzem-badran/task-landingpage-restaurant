@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import ContactUsPage from '../../Pages/ContactUsPage'
+import ContactUsPage from '../../Components/Contact/ContactUsSection'
 
 export default class Section10 extends Component {
   render() {
