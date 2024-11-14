@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import CookingIngredientsInfo from '../../Components/CookingIngredientsInfo'
+import CookingIngredientsInfo from '../CookingIngredientsInfo'
 import './index.css'
 
 

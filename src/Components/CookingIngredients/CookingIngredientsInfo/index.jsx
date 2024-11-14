@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import ButtonComp from '../Hero/ButtonComp'
-import Container from '../Container'
-import cookImage from '../../Assets/Images/Rectangle34.png'  
+import ButtonComp from '../../Hero/ButtonComp'
+import Container from '../../Container'
+import cookImage from '../../../Assets/Images/Rectangle34.png'  
 import './index.css'
 
 
