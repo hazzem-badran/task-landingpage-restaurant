@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import MenuPage from '../../Pages/MenuSection'
+import MenuPage from '../../Components/Menu/MenuSection'
 
 export default class Section4 extends Component {
   render() {
