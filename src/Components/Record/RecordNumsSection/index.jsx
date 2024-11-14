@@ -2,9 +2,9 @@ import React, { Component } from "react";
 import RecordNum from "../RecordNum";
 import "./index.css";
 import Container from "../../Container";
-import imgRec1 from "../../Assets/Images/dish11.png";
-import imgRec2 from "../../Assets/Images/chef11.png";
-import imgRec3 from "../../Assets/Images/team11.png";
+import imgRec1 from "../../../Assets/Images/dish11.png";
+import imgRec2 from "../../../Assets/Images/chef11.png";
+import imgRec3 from "../../../Assets/Images/team11.png";
 
 export default class RecordNumsPage extends Component {
   render() {
