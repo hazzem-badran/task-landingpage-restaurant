@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import FooterCompo from '../../Components/FooterCompo'
+import FooterCompo from '../FooterCompo'
 
 export default class FooterPage extends Component {
   render() {

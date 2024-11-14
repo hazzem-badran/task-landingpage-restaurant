@@ -34,9 +34,8 @@ function App() {
       
       <Section11 />
 
-      {/*
+      <Section12 />
       
-      <Section12 /> */}
     </div>
   );
 }
