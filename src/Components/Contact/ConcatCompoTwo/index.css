@@ -3,7 +3,8 @@
   flex-direction: column;
   height: fit-content;
   max-width: 282px;
-  padding: 25px 45px;
+  min-width: 200px;
+  /* padding: 25px 45px; */
   position: relative;
 }
 
