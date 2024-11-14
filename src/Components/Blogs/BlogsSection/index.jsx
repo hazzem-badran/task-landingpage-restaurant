@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import InfoForSections from '../../Components/InfoForSections'
+import InfoForSections from '../../InfoForSections'
 import './index.css'
-import Blogcomon from '../../Components/Hero/Blogcomon'
-import blogOne from '../../Assets/Images/blogOne.png'
-import blogTwo from '../../Assets/Images/blogTwo.png'
-import blogThree from '../../Assets/Images/blogThree.png'
+import Blogcomon from '../Blogcomon'
+import blogOne from '../../../Assets/Images/blogOne.png'
+import blogTwo from '../../../Assets/Images/blogTwo.png'
+import blogThree from '../../../Assets/Images/blogThree.png'
 
 export default class BlogsPage extends Component {
   render() {

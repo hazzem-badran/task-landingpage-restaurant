@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './index.css'
-import ButtonCompSpechel from '../ButtonCompSpechel';
+import ButtonCompSpechel from '../../Hero/ButtonCompSpechel';
 
 
 export default class Blogcomon extends Component {

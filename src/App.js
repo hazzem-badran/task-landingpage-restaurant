@@ -25,13 +25,14 @@ function App() {
       <Section6 />
       <Section7 />
 
+      <Section8 />
+
+      <Section9 />
 
       
 
       {/*
       
-      <Section8 />
-      <Section9 />
       <Section10 />
       <Section11 />
       <Section12 /> */}
