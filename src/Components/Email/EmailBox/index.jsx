@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import ButtonComp from '../Hero/ButtonComp'
+import ButtonComp from '../../Hero/ButtonComp'
 import './index.css'
 
 export default class EmailBox extends Component {

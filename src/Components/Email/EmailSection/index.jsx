@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import EmailInfo from '../../Components/EmailInfo'
-import Container from '../../Components/Container'
-import EmailBox from '../../Components/EmailBox'
+import EmailInfo from '../EmailInfo'
+import Container from '../../Container'
+import EmailBox from '../../Email/EmailBox'
 import './index.css'
 
 export default class EmailPage extends Component {

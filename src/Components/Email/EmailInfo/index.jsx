@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import bytesize_mail from '../../Assets/Images/bytesize_mail.svg'
+import bytesize_mail from '../../../Assets/Images/bytesize_mail.svg'
 import './index.css'
 
 

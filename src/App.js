@@ -32,10 +32,10 @@ function App() {
       <Section10 />
 
       
+      <Section11 />
 
       {/*
       
-      <Section11 />
       <Section12 /> */}
     </div>
   );
