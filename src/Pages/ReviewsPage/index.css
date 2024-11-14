@@ -1,7 +1,8 @@
 .reviews__page {
-  height: 100vh;
+  height: 90vh;
   width: 100%;
   position: relative;
+  padding-top: 2.5rem;
 }
 
 .reviews__page .reviews__for__Contain {
