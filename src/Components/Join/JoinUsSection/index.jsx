@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import Container from '../../Components/Container'
+import Container from '../../Container'
 import './index.css'
-import InfoForSectionJoinUs from '../../Components/InfoForSectionJoinUs'
-import JoinUsImage from '../../Components/JoinUsImage'
+import InfoForSectionJoinUs from '../../InfoForSectionJoinUs'
+import JoinUsImage from '../JoinUsImage'
 
 
 

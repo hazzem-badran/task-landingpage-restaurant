@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import cord from '../../Assets/Images/Component5.png'
+import cord from '../../../Assets/Images/Component5.png'
 import './index.css'
 
 export default class JoinUsImage extends Component {
