@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/task-landingpage-restaurant/static/css/main.c404d0a8.css",
-    "main.js": "/task-landingpage-restaurant/static/js/main.8a519f34.js",
+    "main.css": "/task-landingpage-restaurant/static/css/main.6e093978.css",
+    "main.js": "/task-landingpage-restaurant/static/js/main.d9614c71.js",
     "static/media/haz__img__back.gif": "/task-landingpage-restaurant/static/media/haz__img__back.494212487ca77f63180b.gif",
     "static/media/Opening1.png": "/task-landingpage-restaurant/static/media/Opening1.bf8c28f91f4b02a4746e.png",
     "static/media/Rectangle34.png": "/task-landingpage-restaurant/static/media/Rectangle34.7152f20013dc123eaa4e.png",
@@ -26,11 +26,11 @@
     "static/media/bytesize_mail.svg": "/task-landingpage-restaurant/static/media/bytesize_mail.82ae54b5bfaac466bcd214ac75007ffe.svg",
     "static/media/Vector3.svg": "/task-landingpage-restaurant/static/media/Vector3.9ae418f34a203409b4bb6a0bf87b025f.svg",
     "static/media/Vector55.svg": "/task-landingpage-restaurant/static/media/Vector55.58ec4f73c486c458f23cdd421b135c47.svg",
-    "main.c404d0a8.css.map": "/task-landingpage-restaurant/static/css/main.c404d0a8.css.map",
-    "main.8a519f34.js.map": "/task-landingpage-restaurant/static/js/main.8a519f34.js.map"
+    "main.6e093978.css.map": "/task-landingpage-restaurant/static/css/main.6e093978.css.map",
+    "main.d9614c71.js.map": "/task-landingpage-restaurant/static/js/main.d9614c71.js.map"
   },
   "entrypoints": [
-    "static/css/main.c404d0a8.css",
-    "static/js/main.8a519f34.js"
+    "static/css/main.6e093978.css",
+    "static/js/main.d9614c71.js"
   ]
 }
