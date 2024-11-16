@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import CookingIngredientsPage from '../../Pages/CookingIngredientsPage'
+import CookingIngredientsPage from '../../Components/CookingIngredients/CookingIngredientsSection'
 
 export default class index extends Component {
   render() {
