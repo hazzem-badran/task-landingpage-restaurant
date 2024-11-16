@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./index.css";
-import InfoForSections from "../../Components/InfoForSections";
-import RevComo from "../../Components/RevComo";
+import InfoForSections from "../../InfoForSections";
+import RevComo from "../../RevComo";
 import realPict1 from "../../Assets/Images/Ellipse1.png";
 import realPict2 from "../../Assets/Images/Ellipse2.png";
 import realStar1 from "../../Assets/Images/star.svg";
