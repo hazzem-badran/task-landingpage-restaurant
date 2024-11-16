@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/task-landingpage-restaurant/static/css/main.c404d0a8.css",
+    "main.js": "/task-landingpage-restaurant/static/js/main.8a519f34.js",
+    "static/media/haz__img__back.gif": "/task-landingpage-restaurant/static/media/haz__img__back.494212487ca77f63180b.gif",
+    "static/media/Opening1.png": "/task-landingpage-restaurant/static/media/Opening1.bf8c28f91f4b02a4746e.png",
+    "static/media/Rectangle34.png": "/task-landingpage-restaurant/static/media/Rectangle34.7152f20013dc123eaa4e.png",
+    "static/media/blogOne.png": "/task-landingpage-restaurant/static/media/blogOne.3519bf7e1ee155e24d03.png",
+    "static/media/blogTwo.png": "/task-landingpage-restaurant/static/media/blogTwo.f6eab80aa2e1ae05e835.png",
+    "static/media/blogThree.png": "/task-landingpage-restaurant/static/media/blogThree.57c37c45572f61fa9657.png",
+    "static/media/foodImage.png": "/task-landingpage-restaurant/static/media/foodImage.13227d6968754b511dcd.png",
+    "static/media/Component5.png": "/task-landingpage-restaurant/static/media/Component5.99f472f8069e041173a6.png",
+    "static/media/Ellipse1.png": "/task-landingpage-restaurant/static/media/Ellipse1.64810f4fefb52a226c68.png",
+    "static/media/Ellipse2.png": "/task-landingpage-restaurant/static/media/Ellipse2.2e461fff3fec24ddae65.png",
+    "static/media/unsplash_50KffXbjIOg.png": "/task-landingpage-restaurant/static/media/unsplash_50KffXbjIOg.ff2acd5378c0649206cb.png",
+    "static/media/hcmp33562_1459402.png": "/task-landingpage-restaurant/static/media/hcmp33562_1459402.980e9aed68a520af580b.png",
+    "static/media/unsplash_sHG1dCUXgPY.png": "/task-landingpage-restaurant/static/media/unsplash_sHG1dCUXgPY.4f57a47bfca2b5f4fe04.png",
+    "static/media/Social_Icons.svg": "/task-landingpage-restaurant/static/media/Social_Icons.968a09ef7e98c6a22a8d46ff4a6382bf.svg",
+    "static/media/Social_Icons3.svg": "/task-landingpage-restaurant/static/media/Social_Icons3.1668cab01e418451e023f11de847e835.svg",
+    "index.html": "/task-landingpage-restaurant/index.html",
+    "static/media/carbon_phone-filled.svg": "/task-landingpage-restaurant/static/media/carbon_phone-filled.a5fdddf56b560615063563bd9f43b1fe.svg",
+    "static/media/Social_Icons2.svg": "/task-landingpage-restaurant/static/media/Social_Icons2.f4bf266d20135107d69c2144c74df090.svg",
+    "static/media/carbon_location-filled.svg": "/task-landingpage-restaurant/static/media/carbon_location-filled.26376d86109d98c0ed71d8577c81a960.svg",
+    "static/media/ant-design_mail-filled.svg": "/task-landingpage-restaurant/static/media/ant-design_mail-filled.6cb10374a7d29687265126223988d94b.svg",
+    "static/media/star.svg": "/task-landingpage-restaurant/static/media/star.f9ec02e498388b7a0ffc904b9722a470.svg",
+    "static/media/bytesize_mail.svg": "/task-landingpage-restaurant/static/media/bytesize_mail.82ae54b5bfaac466bcd214ac75007ffe.svg",
+    "static/media/Vector3.svg": "/task-landingpage-restaurant/static/media/Vector3.9ae418f34a203409b4bb6a0bf87b025f.svg",
+    "static/media/Vector55.svg": "/task-landingpage-restaurant/static/media/Vector55.58ec4f73c486c458f23cdd421b135c47.svg",
+    "main.c404d0a8.css.map": "/task-landingpage-restaurant/static/css/main.c404d0a8.css.map",
+    "main.8a519f34.js.map": "/task-landingpage-restaurant/static/js/main.8a519f34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c404d0a8.css",
+    "static/js/main.8a519f34.js"
+  ]
+}
