@@ -11,24 +11,14 @@ import Section10 from './Sections/Section10';
 import Section11 from './Sections/Section11';
 import Section12 from './Sections/Section12';
 import ReviewsPage from './Components/Reviews/ReviewsSection';
+import HomePage from './Pages/HomePage';
 
 
 
 function App() {
   return (
     <div className="App">
-      <Section1 />
-      <Section2 />
-      <Section3 />
-      <Section4 />
-      <Section5 />
-      <Section6 />
-      <Section7 />
-      <Section8 />
-      <Section9 />
-      <Section10 />
-      <Section11 />
-      <Section12 />
+      <HomePage />
     </div>
   );
 }
