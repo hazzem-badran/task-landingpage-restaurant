@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import JoinUsPage from '../../Components/Join/JoinUsSection'
+import JoinUsPage from '../../Pages/JoinUsPage'
 
 export default class Section5 extends Component {
   render() {

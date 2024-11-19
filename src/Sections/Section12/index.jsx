@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import FooterPage from '../../Components/Footerr/FooterSection'
+import FooterPage from '../../Pages/FooterPage'
 
 
 export default class Section12 extends Component {

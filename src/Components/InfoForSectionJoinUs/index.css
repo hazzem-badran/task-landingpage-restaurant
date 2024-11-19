@@ -35,21 +35,20 @@
   margin-top: 16px;
 }
 
-
-@media (max-width: 500px) {
+@media (max-width: 430px) {
   .InfoForSectionJoinUs__contain {
     width: 300px;
   }
 
   .InfoForSectionJoinUs__contain h3 {
-    font-size: 28px;
-    font-weight: 500;
+    font-size: 30px;
+    font-weight: 550;
     width: 327px;
   }
 
   .InfoForSectionJoinUs__contain p {
     font-size: 28px;
-    font-weight: 600;
-    margin-bottom: 2rem;
+    font-weight: 700;
+    margin-bottom: 16px;
   }
 }

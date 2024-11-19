@@ -1,0 +1,34 @@
+.recordnums__page {
+  width: 100%;
+  height: 192px;
+  background-color: rgba(16, 20, 24, 0.7);
+  position: relative;
+}
+
+@media (max-width: 658px) {
+  .recordnums__page {
+    height: 100%;
+  } 
+}
+
+
+.recordnums__page .recordhaz_contain {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 0 50px;
+}
+
+@media (max-width: 658px) {
+  .recordnums__page .recordhaz_contain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 23px;
+    
+  }
+}
+
+
