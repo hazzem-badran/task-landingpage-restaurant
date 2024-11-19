@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import ReviewsPage from '../../Components/Reviews/ReviewsSection'
+import ReviewsPage from '../../Pages/ReviewsPage'
 
 export default class Section8 extends Component {
   render() {

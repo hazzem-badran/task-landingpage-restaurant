@@ -1,0 +1,41 @@
+.emailbox__contain {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  column-gap: 85px;
+  width: fit-content;
+}
+@media (max-width: 1107px) {
+  .emailbox__contain {
+    flex-direction: column;
+  }
+}
+
+.emailbox__contain input {
+  width: 407px;
+  height: 42px;
+  color: #fffffc;
+  font-size: 12px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 155.3%;
+  letter-spacing: 1.56px;
+  text-transform: capitalize;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1107px) {
+  .emailbox__contain {
+    flex-direction: column;
+    
+  }
+  .emailbox__contain input {
+    width: 290px;
+    margin-bottom: 19px;
+    
+  }
+}
+
