@@ -1,0 +1,25 @@
+.blogspage__contain {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.blog__contain {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  column-gap: 35px;
+  
+}
+
+@media (max-width: 1248px) {
+  .blog__contain {
+    display: flex;
+    flex-direction: column;
+    column-gap: 0;
+    row-gap: 12px;
+    align-items: center;
+  }
+}
+

@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import BlogsPage from '../../Components/Blogs/BlogsSection'
+import BlogsPage from '../../Pages/BlogsPage'
 
 export default class Section9 extends Component {
   render() {
