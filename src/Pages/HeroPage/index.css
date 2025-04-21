@@ -1,8 +1,8 @@
-.hero__page {
+.hero__page{
   height: 100vh;
   width: 100%;
   background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0) 80%),
-    url('../../../Assets/Images/Opening1.png');
+    url('../../Assets/Images/opening1.png');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
