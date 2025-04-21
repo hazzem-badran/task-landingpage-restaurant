@@ -12,13 +12,18 @@ import Section11 from './Sections/Section11';
 import Section12 from './Sections/Section12';
 import ReviewsPage from './Components/Reviews/ReviewsSection';
 import HomePage from './Pages/HomePage';
+import Loader from './Components/Loader';
+import { Suspense } from 'react';
 
 
 
 function App() {
   return (
     <div className="App">
-      <HomePage />
+    <Suspense fallback={<Loader />}>
+    <Loader />
+      {/* <HomePage /> */}
+    </Suspense>
     </div>
   );
 }

@@ -18,4 +18,4 @@ export default class Blogcomon extends Component {
       </div>
     )
   }
-}
+} 
